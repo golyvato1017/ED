@@ -6,3 +6,7 @@
 * uno
 * dos
 * tres
+
+1. punto 1
+2. punto 2
+3. punto 3
